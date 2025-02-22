@@ -26,8 +26,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The d’Arblay Mystery</dc:title>
-		<meta property="file-as" refines="#title">d’Arblay Mystery, The</meta>
+		<dc:title id="title">The D’Arblay Mystery</dc:title>
+		<meta property="file-as" refines="#title">D’Arblay Mystery, The</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Thorndyke, Doctor (Fictitious character) -- Fiction</dc:subject>
