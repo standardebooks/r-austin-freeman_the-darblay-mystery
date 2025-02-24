@@ -15,7 +15,7 @@
 	<file path="chapter-6.xhtml">
 		<ignore>
 			<code>s-023</code>
-			<reason>Title contains two sentences with the second one beginning with the word "And," which needs to be capitalized.</reason>
+			<reason>The title includes an English surname, so normal capitalization of the "d'" prefix is suspended.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
