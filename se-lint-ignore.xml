@@ -2,16 +2,19 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>The title includes an English surname, so normal capitalization of the "d'" prefix is suspended.</reason>
 		</ignore>
 	</file>
 	<file path="colophon.xhtml">
 		<ignore code="t-064">
+			<line>14</line>
 			<reason>The title includes an English surname, so normal capitalization of the "d'" prefix is suspended.</reason>
 		</ignore>
 	</file>
 	<file path="titlepage.xhtml">
 		<ignore code="s-023">
+			<line>10</line>
 			<reason>The title includes an English surname, so normal capitalization of the "d'" prefix is suspended.</reason>
 		</ignore>
 	</file>
