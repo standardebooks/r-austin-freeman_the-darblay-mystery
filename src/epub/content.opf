@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/r-austin-freeman/the-darblay-mystery</dc:identifier>
 		<dc:date>2025-02-27T20:58:20Z</dc:date>
@@ -47,11 +47,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Doctor Thorndyke</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">9</meta>
-		<dc:description id="description">A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A doctor finds himself entangled in the mysterious death of an artist after discovering his body in a secluded pond.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;While out collecting pond water samples early one morning, newly qualified doctor Stephen Gray chances upon a dead body in the Queen’s Wood. The body turns out to be that of an artist, Julius D’Arblay. Assisted by renowned medical jurist &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. John Thorndyke&lt;/a&gt; and D’Arblay’s daughter Marion, Gray finds himself embroiled in a plot that will test his wits, endanger his life, and perhaps even lead to love.&lt;/p&gt;
 			&lt;p&gt;Although narrated by earnest junior doctor Stephen Gray, the mystery of the D’Arblay case is unraveled by renowned forensic scientist Dr. John Thorndyke, protagonist of twenty-one novels and numerous short stories by &lt;a href="https://standardebooks.org/ebooks/r-austin-freeman"&gt;R. Austin Freeman&lt;/a&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70996</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102874558</dc:source>
