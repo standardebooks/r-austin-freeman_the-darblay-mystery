@@ -31,9 +31,9 @@
 		<dc:title id="title">The D’Arblay Mystery</dc:title>
 		<meta property="file-as" refines="#title">D’Arblay Mystery, The</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
-		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Thorndyke, Doctor (Fictitious character) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Physicians -- Fiction</dc:subject>
+		<dc:subject id="subject-2">London (England)--Fiction</dc:subject>
+		<dc:subject id="subject-3">Thorndyke, Doctor (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Physicians--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
